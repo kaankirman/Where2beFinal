@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Where2be</string>
+    <string name="app_name_spaced">Where 2 Be</string>
+    <string name="lets_get_started">Lets Get Started!</string>
+    <string name="intro_description_text">Document the places you have been\n Save locations you wish to explore!</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="world_image">World image\n</string>
+    <string name="sign_up_description_text">Please enter your name, e-mail and password \n to register and get started!</string>
+    <string name="password_text">Password</string>
+    <string name="email_text">E-mail</string>
+    <string name="progress_bar_text">Please Wait...</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="nav_my_profile">Profile\n</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <string name="mobile">Mobile</string>
+    <string name="name_text">Name</string>
+    <string name="update_text">UPDATE</string>
+    <string name="profile_text">Profile</string>
+    <string name="add_folder_text">Add Folder</string>
+    <string name="folder_name_text">Folder Name</string>
+    <string name="create_a_folder_to_get_started_text">Create a Folder to get started!</string>
+    <string name="add_a_location_text">Add a location!</string>
+    <string name="location_name_text">Location Name</string>
+
+    //keys
+    <string name="google_places_api_key">AIzaSyCLyYPIF5Hm8fWJyeLhh-UUrjdWQxx850Q</string>
+    <string name="add_location_text">Add Location</string>
+    <string name="location_description_text">Description</string>
+    <string name="location_text">Location</string>
+    <string name="show_location_text">Show on maps</string>
+</resources>

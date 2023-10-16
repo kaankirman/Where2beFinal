@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055207896956",
+    "project_id": "where2be-f5c28",
+    "storage_bucket": "where2be-f5c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055207896956:android:a8e8a850e97b44b6c696f9",
+        "android_client_info": {
+          "package_name": "com.strt.where2be"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055207896956-6rnnj9f3l3k9ufeq15ssqo004q51t20b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9NGPfSyf6XyR3D4IWKq4l98dMMSuyAnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055207896956-6rnnj9f3l3k9ufeq15ssqo004q51t20b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

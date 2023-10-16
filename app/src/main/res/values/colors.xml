@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gradient_dark">#2c7da0</color>
+    <color name="gradient_light">#caf0f8</color>
+    <color name="warm_white">#FFFFFF</color>
+    <color name="gradient_dark_faded">#A1014F86</color>
+</resources>

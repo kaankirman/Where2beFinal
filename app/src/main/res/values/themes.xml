@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Where2be" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+    <style name="CustomActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <!-- You can also add other style attributes here, like textSize, textStyle, etc. -->
+    </style>
+
+    <style name="Theme.Where2be" parent="Base.Theme.Where2be" />
+    <style name="Theme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"></style>
+    <style name="Theme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
+
+</resources>
